@@ -18,7 +18,7 @@ define('SITE_NOME', 'Lista de Tarefas');
 define('SITE_DESCRICAO', 'Lista para organizar tarefas de maneira simples.');
 
 //Urls do sistema
-define('URL_PRODUCAO', 'https://tarefas.glaucopereira.com.br');
+define('URL_PRODUCAO', 'URL de produção aqui');
 define('URL_DESENVOLVIMENTO', 'http://localhost/todolist/');
 
 
